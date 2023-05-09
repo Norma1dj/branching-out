@@ -1,6 +1,7 @@
 You found the first question!
 
 1. What is your favorite song?
+    Happy Birthday
 
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
